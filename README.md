@@ -1,8 +1,8 @@
 #🃏 TERMUX LOVER
-##I'am Tahidul Khan
-## Tools Maker
+#I'am Tahidul Khan
+# Tools Maker
 ✔ i am Tahidul..
-✔ i am a very simpul boy..#🧘‍♂️
+✔ i am a very simpul boy..
 ✔ my hobby is Termux ♥
 ✔ my facebook page name..Termux Lover
 ✔ my favorite Work Hacking🎭 
